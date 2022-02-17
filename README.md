@@ -6,6 +6,8 @@ BS-Seq | RNA
 --- | --- 
 <img width="490" alt="Screenshot 2022-02-18 at 00 53 20" src="https://user-images.githubusercontent.com/71605966/154577048-f144c6b7-8980-43b5-9db1-7b8833c6635c.png">  |  <img width="482" alt="Screenshot 2022-02-18 at 00 48 58" src="https://user-images.githubusercontent.com/71605966/154576438-c6146ed7-aaae-47e3-9ec1-ee18af7a6873.png">
 
+Для RNA наблюдаем более высокий процент GC
+
 
 ### Per base sequence content
 BS-Seq | RNA 
