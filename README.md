@@ -14,12 +14,16 @@ BS-Seq | RNA
 --- | --- 
 <img width="830" alt="Screenshot 2022-02-18 at 00 53 54" src="https://user-images.githubusercontent.com/71605966/154577111-cc022d39-d2c6-4f7f-a0f7-2815f85036ae.png">  |  <img width="994" alt="Screenshot 2022-02-18 at 00 51 31" src="https://user-images.githubusercontent.com/71605966/154576793-9d88b250-006c-489b-b6b6-da3d6739892b.png">
 
+Для BS-Seq наблюдаем выраженное отличие содержания TCAG, в отличие от RNA. Так, для BS-Seq почти отсутствуют Цитозины (C), cодержание Гуанина (G) ниже, а Тимина (T) – выше, чем в RNA
+
 
 ### Per sequence GC content
 
 BS-Seq | RNA 
 --- | --- 
 <img width="816" alt="Screenshot 2022-02-18 at 00 52 12" src="https://user-images.githubusercontent.com/71605966/154576882-04e7ba01-8a60-4d1c-b34a-4e8fe015c0d5.png">  |  <img width="897" alt="Screenshot 2022-02-18 at 00 52 32" src="https://user-images.githubusercontent.com/71605966/154576941-2d8f20de-4600-4dc9-acdb-6a9d6c655ea5.png">
+
+Для BS-Seq count per read заметно отличаются от теоритического распренедения: пиков два и они значительно выше
 
 
 ## Part 2
