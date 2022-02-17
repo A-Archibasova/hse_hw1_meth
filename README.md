@@ -4,14 +4,13 @@
 
 BS-Seq | RNA
 --- | --- 
-![Uploading Screenshot 2022-02-18 at 00.48.26.png…]() |  <img width="482" alt="Screenshot 2022-02-18 at 00 48 58" src="https://user-images.githubusercontent.com/71605966/154576438-c6146ed7-aaae-47e3-9ec1-ee18af7a6873.png">
-
+<img width="490" alt="Screenshot 2022-02-18 at 00 53 20" src="https://user-images.githubusercontent.com/71605966/154577048-f144c6b7-8980-43b5-9db1-7b8833c6635c.png">  |  <img width="482" alt="Screenshot 2022-02-18 at 00 48 58" src="https://user-images.githubusercontent.com/71605966/154576438-c6146ed7-aaae-47e3-9ec1-ee18af7a6873.png">
 
 
 ### Per base sequence content
 BS-Seq | RNA 
 --- | --- 
-![Uploading Screenshot 2022-02-18 at 00.50.55.png…]()  |  <img width="994" alt="Screenshot 2022-02-18 at 00 51 31" src="https://user-images.githubusercontent.com/71605966/154576793-9d88b250-006c-489b-b6b6-da3d6739892b.png">
+<img width="830" alt="Screenshot 2022-02-18 at 00 53 54" src="https://user-images.githubusercontent.com/71605966/154577111-cc022d39-d2c6-4f7f-a0f7-2815f85036ae.png">  |  <img width="994" alt="Screenshot 2022-02-18 at 00 51 31" src="https://user-images.githubusercontent.com/71605966/154576793-9d88b250-006c-489b-b6b6-da3d6739892b.png">
 
 
 ### Per sequence GC content
