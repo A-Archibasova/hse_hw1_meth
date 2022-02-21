@@ -38,3 +38,21 @@ BS-Seq | 11347700-11367700 | 40185800-40195800 | deduplication
 SRR5836473 | 1090 | 464 | 81.69
 SRR5836475 | 1456 | 630 | 90.92
 SRR3824222 | 2328 | 1062 | 97.08
+
+## Гистограммы 
+
+### SRR5836473
+
+<img width="486" alt="image_2022-02-15_11-32-53" src="https://user-images.githubusercontent.com/71605966/155025091-9bd764de-0cef-4fc6-8195-8641e76844e4.png">
+
+### SRR5836475
+
+![photo_2022-02-21 23 54 20](https://user-images.githubusercontent.com/71605966/155025112-0fa782b9-3f8f-4972-9613-193bcf3e17c4.jpeg)
+
+### SRR3824222
+
+![photo_2022-02-21 23 54 20](https://user-images.githubusercontent.com/71605966/155025165-0eb0e5c6-5c6b-411f-84af-9ea7937fb973.jpeg)
+
+
+
+
