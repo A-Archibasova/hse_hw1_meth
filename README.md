@@ -43,7 +43,7 @@ SRR3824222 | 2328 | 1062 | 97.08
 
 ### SRR5836473
 
-<img width="486" alt="image_2022-02-15_11-32-53" src="https://user-images.githubusercontent.com/71605966/155025091-9bd764de-0cef-4fc6-8195-8641e76844e4.png">
+![photo_2022-02-21 23 55 57](https://user-images.githubusercontent.com/71605966/155025283-0adbf36c-8af3-49e3-a6da-80d85f3a20e0.jpeg)
 
 ### SRR5836475
 
@@ -51,7 +51,10 @@ SRR3824222 | 2328 | 1062 | 97.08
 
 ### SRR3824222
 
-![photo_2022-02-21 23 54 20](https://user-images.githubusercontent.com/71605966/155025165-0eb0e5c6-5c6b-411f-84af-9ea7937fb973.jpeg)
+![photo_2022-02-21 23 54 48](https://user-images.githubusercontent.com/71605966/155025263-7a46f830-c528-4ddb-a48c-b8695486bfc1.jpeg)
+
+
+
 
 
 
